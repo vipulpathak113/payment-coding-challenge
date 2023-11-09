@@ -24,6 +24,7 @@
 
 ## Usage Instructions:
 
+- Do ```npm run install``` to install all dependencies then,
 - Do ```npm run dev``` to start the application.
 - There will be a "**Pay Now**" button and on clicking the button a Modal will be displayed with Payment Details.
 - The Modal will have fields:
